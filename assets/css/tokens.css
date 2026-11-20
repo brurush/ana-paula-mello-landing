@@ -1,0 +1,61 @@
+/* Tokens em três camadas. Único arquivo do projeto com valor de cor literal. */
+
+:root {
+  /* camada 1 — global: valor bruto, nunca usado por componente */
+  --global-paper: #f6f3ee;
+  --global-paper-alt: #ede8e0;
+  --global-ink: #161a1d;
+  --global-ink-soft: #3c4348;
+  --global-wine: #6e2b33;
+  --global-olive: #3f4a3c;
+  --global-metal: #b08d57;
+  --global-white: #ffffff;
+
+  --global-font-display: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --global-font-corpo: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+
+  --global-space-1: 4px;
+  --global-space-2: 8px;
+  --global-space-3: 12px;
+  --global-space-4: 16px;
+  --global-space-5: 24px;
+  --global-space-6: 32px;
+  --global-space-7: 40px;
+  --global-space-8: 56px;
+  --global-space-9: 72px;
+  --global-space-10: 96px;
+  --global-space-11: 112px;
+  --global-space-12: 128px;
+
+  --global-ease: cubic-bezier(0.2, 0.6, 0.2, 1);
+  --global-dur: 400ms;
+
+  /* camada 2 — alias: papel semântico */
+  --alias-superficie: var(--global-paper);
+  --alias-superficie-alt: var(--global-paper-alt);
+  --alias-texto: var(--global-ink);
+  --alias-texto-suave: var(--global-ink-soft);
+  --alias-acao: var(--global-wine);
+  --alias-acao-texto: var(--global-white);
+  --alias-filete: var(--global-metal);
+  --alias-informativo: var(--global-olive);
+
+  --alias-font-titulo: var(--global-font-display);
+  --alias-font-texto: var(--global-font-corpo);
+
+  --alias-space-secao: clamp(64px, 9vw, 128px);
+  --alias-space-bloco: clamp(24px, 3vw, 40px);
+  --alias-space-linha: var(--global-space-5);
+  --alias-medida: 62ch;
+  --alias-largura: 1120px;
+  --alias-transicao: var(--global-dur) var(--global-ease);
+
+  /* camada 3 — comp: uso pontual */
+  --comp-cta-fundo: var(--alias-acao);
+  --comp-cta-texto: var(--alias-acao-texto);
+  --comp-filete: var(--alias-filete);
+  --comp-bloco-fundo: var(--alias-superficie-alt);
+  --comp-foco: var(--alias-acao);
+  --comp-raio: 2px;
+  --comp-filete-altura: 1px;
+}
