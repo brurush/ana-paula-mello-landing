@@ -8,7 +8,7 @@ Fonte única do texto da página. Revisado contra o Provimento 205/2021 da OAB a
 - Sub: Atuação em Direito do Trabalho para quem precisa entender seus direitos, organizar documentos
   e decidir o próximo passo com informação clara.
 - CTA: Falar no WhatsApp
-- Assinatura: Ana Paula Mello · OAB/UF 000.000 · Atendimento em Cidade — UF e online
+- Assinatura: Ana Paula Mello · OAB/RJ 230.622 · Atendimento no Rio de Janeiro — RJ e online
 
 ## Você se reconhece?
 
@@ -52,9 +52,9 @@ Nota: não tem todos? Envie o que tiver. A análise começa pelo que existe.
 
 ## Sobre
 
-Ana Paula Mello é advogada inscrita na OAB/UF sob o nº 000.000, com atuação em Direito do Trabalho.
+Ana Paula Mello é advogada inscrita na OAB/RJ sob o nº 230.622, com atuação em Direito do Trabalho.
 Atende pessoas físicas em questões de rescisão contratual, jornada, assédio, acidente de trabalho e
-vínculo de emprego. O atendimento é presencial em Cidade — UF e também online, por videochamada, para
+vínculo de emprego. O atendimento é presencial no Rio de Janeiro — RJ e também online, por videochamada, para
 quem está em outra cidade.
 
 ## Perguntas frequentes
@@ -77,7 +77,7 @@ Se você ficou com dúvida sobre o que fazer depois da demissão, comece por uma
 
 ## Rodapé
 
-Ana Paula Mello · OAB/UF 000.000 · Cidade — UF. Conteúdo informativo, em conformidade com o
+Ana Paula Mello · OAB/RJ 230.622 · Rio de Janeiro — RJ. Conteúdo informativo, em conformidade com o
 Provimento nº 205/2021 da OAB. Não substitui consulta jurídica individual.
 
 ## Mensagem do WhatsApp

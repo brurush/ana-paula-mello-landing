@@ -37,8 +37,6 @@ vercel --prod --yes
 
 | Onde | Placeholder | O que entra |
 |---|---|---|
-| `index.html` | `OAB/UF 000.000` | número real de inscrição |
-| `index.html` | `Cidade — UF` | cidade e estado do atendimento presencial |
 | `index.html` | `contato@exemplo.com.br` | e-mail profissional |
 | `assets/img/` | `retrato.webp` | foto sóbria da advogada, 800x1000 |
 | `assets/img/` | `og-image.png` | imagem 1200x630 para compartilhamento |
