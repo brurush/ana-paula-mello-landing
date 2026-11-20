@@ -66,7 +66,7 @@ check('tokens: tokens.css define as três camadas', () => {
 });
 
 check('rede: nenhuma requisição a domínio externo', () => {
-  const allowed = ['wa.me', 'ana-paula-mello-landing.vercel.app', 'schema.org', 'www.w3.org'];
+  const allowed = ['wa.me', 'anapaulamello.vercel.app', 'ana-paula-mello-landing.vercel.app', 'schema.org', 'www.w3.org'];
   const offenders = [];
   for (const file of css.concat(['index.html'])) {
     const matches = read(file).match(/https?:\/\/[^\s"'()<>]+/g) || [];

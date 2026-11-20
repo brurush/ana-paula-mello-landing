@@ -49,3 +49,6 @@ Resumo cronológico. O detalhe de cada decisão está em `docs/adr/`.
   rodapé, JSON-LD e os 5 links de WhatsApp corretos, 8 seções, sem rolagem horizontal.
 - 2026-11-20 — `push` em `main` e deploy de produção autorizados pelo usuário; produção em
   https://ana-paula-mello-landing.vercel.app com 200 e sem resíduo de placeholder.
+- 2026-11-20 — endereço profissional: `anapaulamello.vercel.app` adicionado como domínio do projeto
+  (`vercel domains add`), público e seguindo a produção. `canonical`, `og:url`, JSON-LD e README
+  apontam para o endereço novo; a URL antiga continua respondendo.

@@ -3,7 +3,7 @@
 Landing page de página única para atendimento em Direito do Trabalho. HTML, CSS e JS puros, sem
 build e sem dependência de runtime.
 
-- Produção: https://ana-paula-mello-landing.vercel.app
+- Produção: https://anapaulamello.vercel.app
 - Padrões do projeto: `AGENTS.md`
 - Requisitos e critérios de aceite: `docs/briefing.md`
 - Texto final: `docs/copy.md`
