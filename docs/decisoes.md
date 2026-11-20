@@ -25,6 +25,7 @@ Resumo cronológico. O detalhe de cada decisão está em `docs/adr/`.
 | 0003 | Logo em SVG por código | aceito |
 | 0004 | WhatsApp em duas fases | aceito |
 | 0005 | Tipografia em pilha de sistema | aceito |
+| 0006 | Skill de retrato profissional e fundo de advocacia | proposto |
 
 ## Registro
 

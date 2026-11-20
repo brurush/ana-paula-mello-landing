@@ -40,6 +40,14 @@
       "arquivo": "0005-tipografia-em-pilha-de-sistema.md",
       "touches": ["assets/css/**", "index.html"],
       "substitui": null
+    },
+    {
+      "id": "0006",
+      "titulo": "Skill de retrato profissional e fundo de advocacia",
+      "status": "proposto",
+      "arquivo": "0006-skill-de-retrato-profissional.md",
+      "touches": ["assets/img/**", "index.html"],
+      "substitui": null
     }
   ]
 }
