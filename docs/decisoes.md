@@ -31,3 +31,15 @@ Resumo cronológico. O detalhe de cada decisão está em `docs/adr/`.
 - 2026-11-20 — projeto criado; spec, copy e design system escritos antes do HTML.
 - 2026-11-20 — download de fontes bloqueado por TLS (curl rc=35); fallback aplicado e registrado no
   ADR 0005.
+- 2026-11-20 — `check-standards.mjs` com 14/14 e exit 0; deriva de hex testada e detectada (exit 1).
+- 2026-11-20 — layout medido por CDP: 360, 768 e 1280 px com `scrollWidth` igual à viewport; console
+  sem erro; `prefers-reduced-motion` desliga a transição; sem JS o conteúdo fica visível e os 3
+  links de WhatsApp seguem clicáveis.
+- 2026-11-20 — contraste calculado: tinta/papel 15.82, tinta-suave/papel 9.08, vinho/papel 9.23,
+  branco/vinho 10.21.
+- 2026-11-20 — repositório `brurush/ana-paula-mello-landing` criado pelo agent-desktop e `push` em
+  `main`.
+- 2026-11-20 — produção em https://ana-paula-mello-landing.vercel.app com 200, título, h1 e 8 seções
+  conferidos; CSS, JS e SVGs com 200.
+- 2026-11-20 — preview protegido por Vercel Authentication (retorna tela de login), então o render
+  foi conferido em produção, não no preview. AC16 fica parcialmente atendido.
