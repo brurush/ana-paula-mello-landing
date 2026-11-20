@@ -38,6 +38,7 @@ vercel --prod --yes
 | Onde | Placeholder | O que entra |
 |---|---|---|
 | `assets/img/` | `retrato.webp` | foto sóbria da advogada, 800x1000 |
+| `assets/img/` | `retrato.webp` | foto sóbria da advogada, 800x1000 |
 | `assets/img/` | `og-image.png` | imagem 1200x630 para compartilhamento |
 
 Enquanto os placeholders estiverem no ar, a página não deve ser divulgada como se fosse o site
