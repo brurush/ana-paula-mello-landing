@@ -38,8 +38,6 @@ vercel --prod --yes
 | Onde | Placeholder | O que entra |
 |---|---|---|
 | `index.html` | `OAB/UF 000.000` | número real de inscrição |
-| `index.html` | `(00) 00000-0000` | telefone com DDD |
-| `index.html` | `data-whatsapp="5500000000000"` | número no formato E.164 sem símbolos |
 | `index.html` | `Cidade — UF` | cidade e estado do atendimento presencial |
 | `index.html` | `contato@exemplo.com.br` | e-mail profissional |
 | `assets/img/` | `retrato.webp` | foto sóbria da advogada, 800x1000 |
