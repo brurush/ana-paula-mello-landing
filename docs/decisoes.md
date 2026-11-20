@@ -43,3 +43,8 @@ Resumo cronológico. O detalhe de cada decisão está em `docs/adr/`.
   conferidos; CSS, JS e SVGs com 200.
 - 2026-11-20 — preview protegido por Vercel Authentication (retorna tela de login), então o render
   foi conferido em produção, não no preview. AC16 fica parcialmente atendido.
+- 2026-11-20 — dados reais aplicados: WhatsApp `+55 21 98329-8878` (E.164 `5521983298878`) e
+  OAB/RJ 230.622, atendimento no Rio de Janeiro — RJ. Verificado em produção por CDP: cabeçalho,
+  rodapé, JSON-LD e os 5 links de WhatsApp corretos, 8 seções, sem rolagem horizontal.
+- 2026-11-20 — `push` em `main` e deploy de produção autorizados pelo usuário; produção em
+  https://ana-paula-mello-landing.vercel.app com 200 e sem resíduo de placeholder.
