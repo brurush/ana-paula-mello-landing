@@ -1,0 +1,45 @@
+{
+  "gerado": "2026-11-20",
+  "adrs": [
+    {
+      "id": "0001",
+      "titulo": "Stack estática sem build",
+      "status": "aceito",
+      "arquivo": "0001-stack-estatica-sem-build.md",
+      "touches": ["index.html", "assets/**", "api/**"],
+      "substitui": null
+    },
+    {
+      "id": "0002",
+      "titulo": "Tokens em três camadas",
+      "status": "aceito",
+      "arquivo": "0002-tokens-em-tres-camadas.md",
+      "touches": ["assets/css/**", "index.html"],
+      "substitui": null
+    },
+    {
+      "id": "0003",
+      "titulo": "Logo em SVG por código",
+      "status": "aceito",
+      "arquivo": "0003-logo-em-svg-por-codigo.md",
+      "touches": ["assets/brand/**", "index.html"],
+      "substitui": null
+    },
+    {
+      "id": "0004",
+      "titulo": "WhatsApp em duas fases",
+      "status": "aceito",
+      "arquivo": "0004-whatsapp-em-duas-fases.md",
+      "touches": ["index.html", "assets/js/**", "api/**"],
+      "substitui": null
+    },
+    {
+      "id": "0005",
+      "titulo": "Tipografia em pilha de sistema",
+      "status": "aceito",
+      "arquivo": "0005-tipografia-em-pilha-de-sistema.md",
+      "touches": ["assets/css/**", "index.html"],
+      "substitui": null
+    }
+  ]
+}
