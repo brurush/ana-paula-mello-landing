@@ -37,7 +37,6 @@ vercel --prod --yes
 
 | Onde | Placeholder | O que entra |
 |---|---|---|
-| `index.html` | `contato@exemplo.com.br` | e-mail profissional |
 | `assets/img/` | `retrato.webp` | foto sóbria da advogada, 800x1000 |
 | `assets/img/` | `og-image.png` | imagem 1200x630 para compartilhamento |
 
