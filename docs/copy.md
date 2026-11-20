@@ -28,19 +28,22 @@ Fonte única do texto da página. Revisado contra o Provimento 205/2021 da OAB a
 
 ## Direitos que valem conhecer
 
-- Prazo para ajuizar — em regra, 2 anos contados do fim do contrato, alcançando os últimos 5 anos do
-  período trabalhado (art. 7º, XXIX, da Constituição).
-- Verbas rescisórias — saldo de salário, aviso prévio, férias vencidas e proporcionais com um terço,
-  13º proporcional, FGTS e multa de 40%.
-- Horas extras — adicional mínimo de 50% sobre a hora normal. Banco de horas e intervalo
-  intrajornada seguem regras próprias.
-- Assédio — constrangimento reiterado ou de conteúdo sexual pode ser apurado com provas e
-  testemunhas.
-- Acidente e doença ocupacional — CAT, afastamento pelo INSS e estabilidade provisória nas hipóteses
-  previstas em lei.
-- Pejotização — contrato de PJ com subordinação, habitualidade e pessoalidade pode ser discutido na
-  Justiça do Trabalho.
-- Ressalva — conteúdo informativo. Cada caso depende de análise individual dos documentos e dos fatos.
+Lead: Seis pontos que aparecem com mais frequência nas conversas iniciais, com a base legal de cada um.
+
+1. Prazo para ajuizar — CF, art. 7º, XXIX — Em regra, 2 anos contados do fim do contrato, alcançando
+   os últimos 5 anos do período trabalhado.
+2. Verbas rescisórias — CLT, arts. 477 e 487 — Saldo de salário, aviso prévio, férias vencidas e
+   proporcionais com um terço, 13º proporcional, FGTS e multa de 40%.
+3. Horas extras — CF, art. 7º, XVI — Adicional mínimo de 50% sobre a hora normal. Banco de horas e
+   intervalo intrajornada seguem regras próprias.
+4. Assédio — CLT, art. 483 · CP, art. 216-A — Constrangimento reiterado ou de conteúdo sexual pode
+   ser apurado com provas e testemunhas.
+5. Acidente e doença ocupacional — Lei 8.213/1991, art. 118 — CAT, afastamento pelo INSS e
+   estabilidade provisória nas hipóteses previstas em lei.
+6. Pejotização — CLT, art. 3º — Contrato de PJ com subordinação, habitualidade e pessoalidade pode
+   ser discutido na Justiça do Trabalho.
+
+Ressalva: conteúdo informativo. Cada caso depende de análise individual dos documentos e dos fatos.
 
 ## Documentos para a primeira conversa
 

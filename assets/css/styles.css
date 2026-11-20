@@ -334,24 +334,62 @@ a {
 
 /* ---------- bloco informativo ---------- */
 
-.info-grid {
+.rights {
   display: grid;
-  gap: var(--global-space-5);
+  gap: clamp(32px, 5vw, 72px);
+  align-items: start;
 }
 
-.info-block {
-  padding: var(--global-space-5);
-  background: color-mix(in oklab, var(--alias-informativo) 7%, var(--alias-superficie));
-  border-left: 3px solid var(--alias-informativo);
+.rights__aside .lead {
+  margin-top: var(--global-space-4);
 }
 
-.info-block h3 {
-  margin-bottom: var(--global-space-2);
+.rights__aside .note {
+  margin-top: var(--global-space-5);
 }
 
-.info-block p {
+.rights__list {
+  margin: 0;
+  border-top: var(--comp-filete-altura) solid var(--comp-filete);
+}
+
+.rights__item {
+  display: grid;
+  gap: var(--global-space-2);
+  padding-block: var(--global-space-5);
+  border-bottom: var(--comp-filete-altura) solid var(--comp-filete);
+}
+
+.rights__item dt {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--global-space-3);
+  font-family: var(--alias-font-titulo);
+  font-size: 1.0625rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--alias-texto);
+}
+
+.rights__ref {
+  font-family: var(--alias-font-texto);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--alias-acao);
+  border: var(--comp-filete-altura) solid color-mix(in oklab, var(--alias-acao) 34%, transparent);
+  border-radius: var(--comp-raio);
+  padding: 3px 8px;
+  white-space: nowrap;
+}
+
+.rights__item dd {
+  margin: 0;
   font-size: 1rem;
   color: var(--alias-texto-suave);
+  max-width: var(--alias-medida);
 }
 
 .note {
@@ -623,10 +661,6 @@ a {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .info-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
   .checklist {
     grid-template-columns: repeat(2, 1fr);
     column-gap: var(--global-space-6);
@@ -651,6 +685,15 @@ a {
 @media (min-width: 960px) {
   .hero__grid {
     grid-template-columns: 1.15fr 0.85fr;
+  }
+
+  .rights {
+    grid-template-columns: 0.82fr 1.18fr;
+  }
+
+  .rights__aside {
+    position: sticky;
+    top: 108px;
   }
 
   .about {
